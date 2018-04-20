@@ -1,0 +1,20 @@
+C:\Users\mario\Desktop\Catalogo Karina\Catalogo Karina\obj\Debug\Catalogo Karina.csprojResolveAssemblyReference.cache
+C:\Users\mario\Desktop\Catalogo Karina\Catalogo Karina\obj\Debug\Catalogo_Karina.Form1.resources
+C:\Users\mario\Desktop\Catalogo Karina\Catalogo Karina\obj\Debug\Catalogo_Karina.Properties.Resources.resources
+C:\Users\mario\Desktop\Catalogo Karina\Catalogo Karina\obj\Debug\Catalogo Karina.csproj.GenerateResource.cache
+C:\Users\mario\Desktop\Catalogo Karina\Catalogo Karina\obj\Debug\Catalogo Karina.csproj.CoreCompileInputs.cache
+C:\Users\mario\Desktop\Catalogo Karina\Catalogo Karina\bin\Debug\Catalogo Karina.exe.config
+C:\Users\mario\Desktop\Catalogo Karina\Catalogo Karina\bin\Debug\Catalogo Karina.exe
+C:\Users\mario\Desktop\Catalogo Karina\Catalogo Karina\bin\Debug\Catalogo Karina.pdb
+C:\Users\mario\Desktop\Catalogo Karina\Catalogo Karina\obj\Debug\Catalogo Karina.exe
+C:\Users\mario\Desktop\Catalogo Karina\Catalogo Karina\obj\Debug\Catalogo Karina.pdb
+C:\Users\20135214\Desktop\Catalogo-master\Catalogo Karina\Catalogo Karina\bin\Debug\Catalogo Karina.exe.config
+C:\Users\20135214\Desktop\Catalogo-master\Catalogo Karina\Catalogo Karina\bin\Debug\Catalogo Karina.exe
+C:\Users\20135214\Desktop\Catalogo-master\Catalogo Karina\Catalogo Karina\bin\Debug\Catalogo Karina.pdb
+C:\Users\20135214\Desktop\Catalogo-master\Catalogo Karina\Catalogo Karina\obj\Debug\Catalogo Karina.csprojResolveAssemblyReference.cache
+C:\Users\20135214\Desktop\Catalogo-master\Catalogo Karina\Catalogo Karina\obj\Debug\Catalogo_Karina.Form1.resources
+C:\Users\20135214\Desktop\Catalogo-master\Catalogo Karina\Catalogo Karina\obj\Debug\Catalogo_Karina.Properties.Resources.resources
+C:\Users\20135214\Desktop\Catalogo-master\Catalogo Karina\Catalogo Karina\obj\Debug\Catalogo Karina.csproj.GenerateResource.Cache
+C:\Users\20135214\Desktop\Catalogo-master\Catalogo Karina\Catalogo Karina\obj\Debug\Catalogo Karina.csproj.CoreCompileInputs.cache
+C:\Users\20135214\Desktop\Catalogo-master\Catalogo Karina\Catalogo Karina\obj\Debug\Catalogo Karina.exe
+C:\Users\20135214\Desktop\Catalogo-master\Catalogo Karina\Catalogo Karina\obj\Debug\Catalogo Karina.pdb
